@@ -2,7 +2,7 @@
 void setup() {
   size(500, 500);  //feel free to change the size
   noLoop(); //stops the draw() function from repeating
-  background(0,0,0);
+  background(255,0,0);
 }
 void draw() {
   for (int y = -50; y < 600; y = y + 60)
