@@ -67,7 +67,7 @@ void scale2(int x, int y)
         vertex(x+5,y+41);
         vertex(x+10,y+20);
         endShape();
-        
+        }
 
   
 
